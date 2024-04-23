@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Utkarsh, and I am an ECE undergrad from VIT, Vellore. I am a Product Designer, Graphic Designer and iOS Developer. I sometimes post my work on 📷 &nbsp; [Instagram](https://instagram.com/fakeyudi?utm_medium=copy_link), and ofc, here. I tweet about stuff on my 🐦 &nbsp;[Twitter](https://twitter.com/fakeyudi), and you can find some of my UI/UX work on 👨🏻‍💻 &nbsp;[here](https://www.behance.net/utkarshdixit2/).
+I am Utkarsh, and I am an ECE undergrad from VIT, Vellore. I am a Product Designer, Graphic Designer, Backend Developer & iOS Developer. I sometimes post my work on 📷 &nbsp; [Instagram](https://instagram.com/fakeyudi?utm_medium=copy_link), and ofc, here. You can find some of my UI/UX work on 👨🏻‍💻 &nbsp;[here](https://www.behance.net/utkarshdixit2/).
 
 In my free time, I work on a host of 🤞🏻&nbsp; projects, while consuming unhealthy amounts of Caffiene.
 
-Send me an ✉️ &nbsp; [email](mailto:udixit419@gmail.com), or a 💬 &nbsp; DM on Instagram or Twitter.
+Send me an ✉️ &nbsp; [email](mailto:udixit419@gmail.com), or a 💬 &nbsp; DM on Instagram.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fakeyudi)<br/>
