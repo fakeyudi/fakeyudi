@@ -1,12 +1,55 @@
-### Hi there 👋
+## Hi, I’m Utkarsh 👋
 
-I am Utkarsh, and I am an ECE undergrad from VIT, Vellore. I am a Product Designer, Graphic Designer, Backend Developer & iOS Developer. I sometimes post my work on 📷 &nbsp; [Instagram](https://instagram.com/fakeyudi?utm_medium=copy_link), and ofc, here. You can find some of my UI/UX work on 👨🏻‍💻 &nbsp;[here](https://www.behance.net/utkarshdixit2/).
+Backend Engineer focused on distributed systems, high-throughput services, and production reliability.
 
-In my free time, I work on a host of 🤞🏻&nbsp; projects, while consuming unhealthy amounts of Caffiene.
+Currently building scalable Go services and event-driven data platforms processing millions of daily events and serving 100K+ users. I enjoy designing stateless systems, optimizing data pipelines, and building infrastructure that survives real-world traffic.
 
-Send me an ✉️ &nbsp; [email](mailto:udixit419@gmail.com), or a 💬 &nbsp; DM on Instagram.
+---
+
+### ⚙️ What I Work With
+
+- **Languages:** Go (primary), Python, SQL, Flutter  
+- **Backend:** REST, gRPC, WebSockets, concurrency patterns  
+- **Cloud & Infra:** AWS (Lambda, SQS, Kinesis, S3, EC2), Kafka  
+- **Databases:** PostgreSQL, Trino  
+- **Observability:** Grafana, CloudWatch  
+- **CI/CD:** GitLab CI, Jenkins, Docker  
+
+---
+
+### 🧠 Engineering Interests
+
+- Distributed systems design  
+- Event-driven architectures  
+- High-throughput ingestion pipelines  
+- Concurrency & parallel processing  
+- Reliability engineering & observability  
+- Performance optimization  
+
+---
+
+### 🚀 Selected Projects
+
+**Handoff**  
+Lightweight Go CLI for seamless work handoff between teammates.  
+Published on Homebrew with active installs.  
+→ https://github.com/fakeyudi/handoff  
+
+**T-Chat**  
+Real-time terminal chat built with Go + WebSockets + Bubble Tea TUI.  
+Session-based communication with persistent storage.  
+→ https://github.com/fakeyudi/t-chat  
+
+---
+
+### 📫 Reach Out
+
+📍 Gurugram, India  
+📧 udixit419@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/fakeyudi  
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fakeyudi&theme=github-dark&hide_border=true)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=fakeyudi)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakeyudi&hide=html&bg_color=161b22&text_color=ffffff)<br>
-[![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=fakeyudi&bg_color=161b22&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
